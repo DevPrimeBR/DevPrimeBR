@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pixelcode-dev/Pixelcode-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
