@@ -2,10 +2,12 @@
 
 ###
 
+**`DESENVOLVEDOR JÚNIOR`**
+
 <p align="left">
 👋🏻 Me chamo Pixel Code, estou iniciando minha jornada neste vasto universo da programação.
   <br>
-😉 Sempre buscando aprender e inovar.
+🎯 Focado em desenvolver soluções eficientes.
 <br>
 ✨ Transformar cada ideia em linha de código.
 </p>
