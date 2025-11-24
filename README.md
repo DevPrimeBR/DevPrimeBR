@@ -1,4 +1,4 @@
-<h2 align="left">🧑🏻‍💻 Pixel Code</h2>
+<h2 align="center">🧑🏻‍💻 Pixel Code</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">🤖 Linguagens e Ferramentas</h2>
+<h2 align="center">🤖 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 ###
 
