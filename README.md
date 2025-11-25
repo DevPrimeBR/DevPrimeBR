@@ -61,13 +61,13 @@
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
-    height="180"
+    height="200"
     alt="GitHub Stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
-    height="180"
+    height="200"
     alt="Top Languages"
   />
 
