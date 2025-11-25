@@ -57,20 +57,26 @@
 
 <h2 align="center">📊 Estatísticas</h2>
 
-###
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixelcode-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
-  <img/>
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
+  <!-- Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false"
+    height="200"
+    alt="stats graph"
+  />
+
+  <!-- Top Languages Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
+    height="200"
+    alt="languages graph"
+  />
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pixelcode-dev/Pixelcode-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pixelcode-dev/Pixelcode-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pixelcode-dev/Pixelcode-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixelcode-dev/pixelcode-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixelcode-dev/pixelcode-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pixelcode-dev/pixelcode-dev/output/github-contribution-grid-snake.svg">
 </picture>
