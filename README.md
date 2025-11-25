@@ -59,18 +59,16 @@
 
 <div align="center">
 
-  <!-- Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false"
-    height="200"
-    alt="stats graph"
+    src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
+    height="180"
+    alt="GitHub Stats"
   />
 
-  <!-- Top Languages Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
-    height="200"
-    alt="languages graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
+    height="180"
+    alt="Top Languages"
   />
 
 </div>
